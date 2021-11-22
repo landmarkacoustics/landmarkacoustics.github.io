@@ -4,7 +4,7 @@ author: Ben Taft
 copyright: (C) 2020 Landmark Acoustics LLC
 ---
 
-# How to Set Up Sphinx to Make Web Pages from Docstrings
+# Use Sphinx to Make Web Pages from Docstrings
 
 Go to the package directory
 ## Update the setup configuration
