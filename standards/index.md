@@ -5,6 +5,9 @@ date: 2021 December 4
 ---
 
 [C++](cpp.md)
+
 [Python](python.md)
+
 [JavaScript](javascript.md)
-[R](r.md)
+
+[R](rstats.md)
