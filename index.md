@@ -22,8 +22,7 @@ for setting up:
 
 # [Applications](applications/)
 
-Right now, the only thing in here is thoughts on structuring the javascript
-application for [recording audio](applications/javascript.md)
+This will increase in density in the future. It's pretty sparse right now.
 
 # [Business Concepts](biz/)
 
