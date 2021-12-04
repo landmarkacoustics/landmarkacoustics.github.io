@@ -4,10 +4,9 @@ author: Ben Taft
 date: 2021 December 4
 ---
 
-[C++](cpp.md)
+We write software in several languages, including
 
-[Python](python.md)
-
-[JavaScript](javascript.md)
-
-[R](rstats.md)
+- [R](rstats.md)
+- [JavaScript](javascript.md)
+- [C++](cpp.md)
+- [Python](python.md)
