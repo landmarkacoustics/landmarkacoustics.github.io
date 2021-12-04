@@ -28,5 +28,3 @@ This will increase in density in the future. It's pretty sparse right now.
 
 Business tools include documents that people need to follow what you are doing,
 or plan to do.
-
-- [Writing a Business Plan](biz/plan/)
