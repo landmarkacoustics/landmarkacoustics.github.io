@@ -12,12 +12,7 @@ are organized by task, but I may organize them by language in the future.
 
 ## [Code Standards](standards/)
 
-We write software in several languages, including
-
-- [R](standards/rstats.md)
-- [JavaScript](standards/javascript.md)
-- [C++](standards/cpp.md)
-- [Python](standards/python.md)
+Click the link above to see how we prefer to style our code.
 
 ## [Setup](setup/)
 
